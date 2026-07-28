@@ -8,9 +8,14 @@ Obter um retrato comparável ao português para o sistema de ensino espanhol, de
 ## Contexto
 Segunda entrega da tarefa n.º 1465. Os sistemas de ensino português e espanhol não se correspondem (ex.: não existe CTeSP em Espanha; «centro» ≠ campus), o que exigiu definir equivalências explícitas e cruzar a base oficial de centros do RUCT (2 137 registos).
 
-## Ficheiros nesta pasta
-- **`Fase1_Instituiciones_Espanha.xlsx`** — Fase 1: identificação e avaliação das instituições espanholas, com a mesma matriz de critérios.
-- **`OfertaFormativa_Espanha_normalizada_analise_10336cursos.xlsx`** — Fases 2 e 3: oferta formativa normalizada com equivalências e estado do registo, mais a análise e o relatório.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «Fase1_Instituiciones_Espanha.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/03_oferta-formativa-pt-es/C07_oferta-formativa-espanha/Fase1_Instituiciones_Espanha.xlsx)**  
+  Fase 1: identificação e avaliação das instituições espanholas, com a mesma matriz de critérios.
+- **[📊 Descarregar o Excel → «OfertaFormativa_Espanha_normalizada_analise_10336cursos.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/03_oferta-formativa-pt-es/C07_oferta-formativa-espanha/OfertaFormativa_Espanha_normalizada_analise_10336cursos.xlsx)**  
+  Fases 2 e 3: oferta formativa normalizada com equivalências e estado do registo, mais a análise e o relatório.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Bases oficiais do RUCT (Grados e Másteres); recolha direta de catálogos para os Títulos Propios; Claude (estruturação); conectores Tavily, Exa e Claude in Chrome; Zapier e Google Drive (integração e versão única do ficheiro); Microsoft Excel.

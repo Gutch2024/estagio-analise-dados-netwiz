@@ -8,8 +8,12 @@ Levantar entidades de ensino e formação não superior e avaliar, por matriz de
 ## Contexto
 Pedido do orientador da NetWiz. O objetivo não era recolher cursos, mas analisar e justificar a relevância de cada entidade.
 
-## Ficheiros nesta pasta
-- **`Base_809-entidades_formacao-nao-superior.xlsx`** — Base de 809 entidades em 14 categorias, com nome, tipo, categoria, sítio, contacto e a matriz de sete critérios (0–5) com nota final sobre 35 e prioridade.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «Base_809-entidades_formacao-nao-superior.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/04_cursocerto-validacao-e-povoamento/C13_809-entidades-formacao-nao-superior/Base_809-entidades_formacao-nao-superior.xlsx)**  
+  Base de 809 entidades em 14 categorias, com nome, tipo, categoria, sítio, contacto e a matriz de sete critérios (0–5) com nota final sobre 35 e prioridade.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Microsoft Excel; fontes: DGERT (entidades formadoras certificadas), ANQEP (Centros Qualifica) e os sítios das próprias entidades.

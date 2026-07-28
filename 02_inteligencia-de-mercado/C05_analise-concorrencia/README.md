@@ -8,10 +8,16 @@ Pesquisar e analisar 24 concorrentes da NetWiz (12 PT + 12 ES) segundo dezasseis
 ## Contexto
 Depois de identificados os potenciais clientes e os setores, faltava conhecer a concorrência instalada nos dois países.
 
-## Ficheiros nesta pasta
-- **`Analise_Concorrencia_NetWiz_PT-ES.xlsx`** — Tabela dos 24 concorrentes com os dezasseis campos de análise.
-- **`Dashboard_Concorrencia_NetWiz.pbix`** — Modelo Power BI com dois dashboards e segmentadores.
-- **`Relatorio_Analise-Concorrencia_NetWiz.pdf`** — Relatório desenvolvido com a análise de cada empresa e a síntese comparativa.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «Analise_Concorrencia_NetWiz_PT-ES.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/02_inteligencia-de-mercado/C05_analise-concorrencia/Analise_Concorrencia_NetWiz_PT-ES.xlsx)**  
+  Tabela dos 24 concorrentes com os dezasseis campos de análise.
+- **[📈 Descarregar o Power BI → «Dashboard_Concorrencia_NetWiz.pbix»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/02_inteligencia-de-mercado/C05_analise-concorrencia/Dashboard_Concorrencia_NetWiz.pbix)**  
+  Modelo Power BI com dois dashboards e segmentadores.
+- **[📄 Abrir o PDF → «Relatorio_Analise-Concorrencia_NetWiz.pdf»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/02_inteligencia-de-mercado/C05_analise-concorrencia/Relatorio_Analise-Concorrencia_NetWiz.pdf)**  
+  Relatório desenvolvido com a análise de cada empresa e a síntese comparativa.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Perplexity (apoio à pesquisa e redação), Microsoft Excel e Microsoft Power BI.

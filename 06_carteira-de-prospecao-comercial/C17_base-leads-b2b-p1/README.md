@@ -8,8 +8,12 @@ Compilar uma base de empresas-alvo (leads) por setor prioritário em Portugal e 
 ## Contexto
 Primeira de três tarefas encadeadas (P1–P3). Partiu dos setores da C.4 e alargou a base de 50 entidades da C.3.
 
-## Ficheiros nesta pasta
-- **`NetWiz_P1_Base-Leads-B2B_RGPD-redigido.xlsx`** — Base de 166 empresas-alvo (80 PT + 86 ES), com catorze campos por registo, folha de metodologia e glossário. **Versão redigida:** os nomes de dois colaboradores na folha de metodologia foram substituídos por «[Colaborador 1]» e «[Colaborador 2]».
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «NetWiz_P1_Base-Leads-B2B_RGPD-redigido.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/06_carteira-de-prospecao-comercial/C17_base-leads-b2b-p1/NetWiz_P1_Base-Leads-B2B_RGPD-redigido.xlsx)**  
+  Base de 166 empresas-alvo (80 PT + 86 ES), com catorze campos por registo, folha de metodologia e glossário. **Versão redigida:** os nomes de dois colaboradores na folha de metodologia foram substituídos por «[Colaborador 1]» e «[Colaborador 2]».
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Microsoft Excel; diretórios empresariais, sítios das empresas, Google Maps e páginas de empresa no LinkedIn. Registo da origem e do estado de cada dado (observado vs inferido).

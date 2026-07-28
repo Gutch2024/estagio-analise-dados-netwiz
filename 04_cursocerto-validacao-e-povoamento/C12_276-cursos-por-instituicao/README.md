@@ -8,7 +8,8 @@ Povoar a base de cursos do site com 3 cursos por instituição/universidade-mãe
 ## Contexto
 Seguimento direto da validação do modelo. Em Portugal não existe um único concurso nem uma só fase de candidaturas, pelo que os três campos de candidatura foram reunidos (51 colunas em vez de 53).
 
-## Ficheiros nesta pasta
+## 📎 Evidências — clica para abrir ou descarregar
+
 - _(Sem ficheiro nesta versão — ver a nota abaixo.)_
 
 ## Ferramentas utilizadas

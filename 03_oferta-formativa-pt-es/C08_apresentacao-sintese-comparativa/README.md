@@ -8,8 +8,12 @@ Sintetizar numa apresentação a comparação entre a oferta formativa de Portug
 ## Contexto
 Fecho da tarefa n.º 1465, depois de concluídas as bases dos dois países.
 
-## Ficheiros nesta pasta
-- **`Apresentacao_Sintese-comparativa_PT-ES.pptx`** — Apresentação com nove diapositivos: comparação de tipologias, totais por instituição e conclusões.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[🖥️ Descarregar a apresentação → «Apresentacao_Sintese-comparativa_PT-ES.pptx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/03_oferta-formativa-pt-es/C08_apresentacao-sintese-comparativa/Apresentacao_Sintese-comparativa_PT-ES.pptx)**  
+  Apresentação com nove diapositivos: comparação de tipologias, totais por instituição e conclusões.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Microsoft PowerPoint com apoio do Claude.

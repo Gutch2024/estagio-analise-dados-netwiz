@@ -8,9 +8,14 @@ Testar a navegação, as ligações e as funcionalidades do site cursocerto.pt n
 ## Contexto
 O site estava em desenvolvimento pela NetWiz e dirige-se a quem chega pela primeira vez e sem apoio; interessava detetar não só o que falhava, mas o que se percebia mal.
 
-## Ficheiros nesta pasta
-- **`Relatorio-1_erros-e-melhorias_cursocerto.pdf`** — Primeiro relatório (cinco pontos).
-- **`Relatorio-2_erros-e-melhorias_cursocerto.pdf`** — Segundo relatório (dois pontos). A divisão em dois documentos foi determinada pelo orientador.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📄 Abrir o PDF → «Relatorio-1_erros-e-melhorias_cursocerto.pdf»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/04_cursocerto-validacao-e-povoamento/C09_teste-erros-e-melhorias/Relatorio-1_erros-e-melhorias_cursocerto.pdf)**  
+  Primeiro relatório (cinco pontos).
+- **[📄 Abrir o PDF → «Relatorio-2_erros-e-melhorias_cursocerto.pdf»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/04_cursocerto-validacao-e-povoamento/C09_teste-erros-e-melhorias/Relatorio-2_erros-e-melhorias_cursocerto.pdf)**  
+  Segundo relatório (dois pontos). A divisão em dois documentos foi determinada pelo orientador.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Navegação no próprio site cursocerto.pt, com apoio do Perplexity e confirmação pessoal de cada ocorrência, com captura de ecrã e proposta de correção.

@@ -8,9 +8,14 @@ Reunir as 166 empresas das três tarefas anteriores numa carteira única e const
 ## Contexto
 Última tarefa do estágio. A informação estava repartida por três ficheiros; faltava reuni-la num único sítio, sem recalcular as classificações já definidas.
 
-## Ficheiros nesta pasta
-- **`NetWiz_Dashboard-Comercial.xlsx`** — Dashboard em Excel com quatro folhas (Base de leads, Cálculos, Legenda e metodologia, Painel), com seis cartões de indicadores e seis gráficos calculados por COUNTIFS/AVERAGEIFS.
-- **`Relatorio_Dashboard-Comercial_graficos.pdf`** — Memória descritiva do ficheiro: origem dos dados, cálculos, leitura de cada gráfico e limitações.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «NetWiz_Dashboard-Comercial.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/06_carteira-de-prospecao-comercial/C21_dashboard-comercial/NetWiz_Dashboard-Comercial.xlsx)**  
+  Dashboard em Excel com quatro folhas (Base de leads, Cálculos, Legenda e metodologia, Painel), com seis cartões de indicadores e seis gráficos calculados por COUNTIFS/AVERAGEIFS.
+- **[📄 Abrir o PDF → «Relatorio_Dashboard-Comercial_graficos.pdf»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/06_carteira-de-prospecao-comercial/C21_dashboard-comercial/Relatorio_Dashboard-Comercial_graficos.pdf)**  
+  Memória descritiva do ficheiro: origem dos dados, cálculos, leitura de cada gráfico e limitações.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Microsoft Excel (COUNTIFS e AVERAGEIFS, com filtro de país); Claude (discussão de indicadores e revisão da organização).

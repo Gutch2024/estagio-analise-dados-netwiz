@@ -8,8 +8,12 @@ Separar por ano os contactos de potenciais estudantes recolhidos ao longo de doi
 ## Contexto
 Pedido do GCI do Instituto Piaget. Os registos de dois anos estavam juntos na mesma folha e as colunas de campus, curso e ciclo encontravam-se em grande parte por preencher.
 
-## Ficheiros nesta pasta
-- **`Relatorio_contactos-potenciais-alunos_dashboards_RGPD-redigido.pdf`** — Relatório da tarefa (explicação da organização e dos dashboards). **Versão pública redigida:** as páginas 7, 8 e 10 do original foram removidas por conterem nomes de colaboradoras do Instituto Piaget.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📄 Abrir o PDF → «Relatorio_contactos-potenciais-alunos_dashboards_RGPD-redigido.pdf»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/01_dados-institucionais-e-dashboards/C02_contactos-e-dashboards/Relatorio_contactos-potenciais-alunos_dashboards_RGPD-redigido.pdf)**  
+  Relatório da tarefa (explicação da organização e dos dashboards). **Versão pública redigida:** as páginas 7, 8 e 10 do original foram removidas por conterem nomes de colaboradoras do Instituto Piaget.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Microsoft Excel (separação por ano, filtros e preenchimento, com marcação a amarelo dos campos inferidos) e Microsoft Power BI (dois dashboards).

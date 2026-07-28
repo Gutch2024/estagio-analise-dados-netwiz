@@ -8,8 +8,12 @@ Preparar os elementos de personalização das mensagens de divulgação, com um 
 ## Contexto
 A orientação inicial era usar notícias/eventos recentes como gancho; foi proposta e aceite a mudança para o perfil da instituição como gatilho, o que dá mais credibilidade à mensagem.
 
-## Ficheiros nesta pasta
-- **`Matriz_gatilhos_divulgacao_cursocerto.xlsx`** — Matriz por instituição, com o perfil e a oferta formativa, separando o que é comum do que é específico de cada uma.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «Matriz_gatilhos_divulgacao_cursocerto.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/05_campanha-de-divulgacao/C15_matriz-de-gatilhos/Matriz_gatilhos_divulgacao_cursocerto.xlsx)**  
+  Matriz por instituição, com o perfil e a oferta formativa, separando o que é comum do que é específico de cada uma.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Microsoft Excel.

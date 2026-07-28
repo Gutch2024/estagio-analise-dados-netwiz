@@ -8,7 +8,8 @@ Preparar uma sequência de contactos de divulgação em três toques (dia 0, 4 e
 ## Contexto
 Usando os gatilhos da C.15 e um documento de orientação da empresa sobre a estrutura das mensagens; trata-se de contacto não solicitado.
 
-## Ficheiros nesta pasta
+## 📎 Evidências — clica para abrir ou descarregar
+
 - _(Sem ficheiro nesta versão — ver a nota abaixo.)_
 
 ## Ferramentas utilizadas

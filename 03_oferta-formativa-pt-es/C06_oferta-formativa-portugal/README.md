@@ -8,9 +8,14 @@ Identificar e avaliar 87 instituições de ensino superior portuguesas e normali
 ## Contexto
 Primeira entrega da tarefa interna n.º 1465, a pedido do GCI do Instituto Piaget. Executada em três fases: avaliação das instituições segundo uma matriz de critérios, recolha e normalização da oferta, e análise/relatório (folhas do próprio ficheiro).
 
-## Ficheiros nesta pasta
-- **`Fase1_Instituicoes_Portugal.xlsx`** — Fase 1: identificação e avaliação das 87 instituições, com tipo, natureza, nível de concorrência e justificação.
-- **`OfertaFormativa_Portugal_normalizada_5804cursos.xlsx`** — Fases 2 e 3: oferta formativa normalizada nos catorze campos comparáveis, com a análise e o relatório.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «Fase1_Instituicoes_Portugal.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/03_oferta-formativa-pt-es/C06_oferta-formativa-portugal/Fase1_Instituicoes_Portugal.xlsx)**  
+  Fase 1: identificação e avaliação das 87 instituições, com tipo, natureza, nível de concorrência e justificação.
+- **[📊 Descarregar o Excel → «OfertaFormativa_Portugal_normalizada_5804cursos.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/03_oferta-formativa-pt-es/C06_oferta-formativa-portugal/OfertaFormativa_Portugal_normalizada_5804cursos.xlsx)**  
+  Fases 2 e 3: oferta formativa normalizada nos catorze campos comparáveis, com a análise e o relatório.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Consulta manual de fontes oficiais (DGES, A3ES); Perplexity (normalização inicial); Claude Pro com conectores Tavily, Exa e Claude in Chrome (recolha e verificação em escala); Gemini (metodologias); Microsoft Excel.

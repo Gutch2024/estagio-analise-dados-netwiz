@@ -11,6 +11,16 @@ Este repositório reúne, de forma organizada e rastreável, os **entregáveis p
 
 ---
 
+## 🖱️ Como ver as evidências (mesmo sem conhecer o GitHub)
+
+1. Na tabela abaixo, **clica no nome de uma tarefa** (ou numa pasta `C0x_...`).
+2. Abre uma **explicação** da tarefa (objetivo, contexto, resultado).
+3. Para abrir um ficheiro, clica no botão **«📄 Abrir / 📊 Descarregar»** que está nessa explicação, na secção **«Evidências»** — o Excel/PowerPoint descarrega e o PDF abre no navegador.
+
+> Os ficheiros Excel, PowerPoint e Power BI **não se pré-visualizam** no GitHub (aparece «View raw»); por isso cada tarefa tem **botões diretos** que abrem ou descarregam o ficheiro sem teres de adivinhar.
+
+---
+
 ## Índice de tarefas
 
 | Anexo | Pasta | Tarefa | Secção |

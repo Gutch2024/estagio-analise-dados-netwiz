@@ -8,9 +8,14 @@ Recolher e organizar o sítio e o endereço eletrónico geral de cada instituiç
 ## Contexto
 Pedido da NetWiz, na fase de recolha prévia à divulgação.
 
-## Ficheiros nesta pasta
-- **`Contactos_instituicoes-ensino-superior_Portugal.xlsx`** — 92 instituições de ensino superior de Portugal (37 públicas, 55 privadas), com website, email geral e cidade/campus.
-- **`Contactos_universidades_Espanha.xlsx`** — 94 universidades de Espanha (50 públicas, 44 privadas), com website, email geral e cidade/campus.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «Contactos_instituicoes-ensino-superior_Portugal.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/05_campanha-de-divulgacao/C14_contactos-institucionais-pt-es/Contactos_instituicoes-ensino-superior_Portugal.xlsx)**  
+  92 instituições de ensino superior de Portugal (37 públicas, 55 privadas), com website, email geral e cidade/campus.
+- **[📊 Descarregar o Excel → «Contactos_universidades_Espanha.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/05_campanha-de-divulgacao/C14_contactos-institucionais-pt-es/Contactos_universidades_Espanha.xlsx)**  
+  94 universidades de Espanha (50 públicas, 44 privadas), com website, email geral e cidade/campus.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Claude com conectores de pesquisa (Tavily e Exa); validação de cada contacto diretamente nos sítios institucionais.

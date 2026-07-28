@@ -8,8 +8,12 @@ Organizar o ficheiro Excel de candidaturas às pós-graduações de 2025/2026 do
 ## Contexto
 Pedido do Gabinete de Comunicação e Imagem (GCI) do Instituto Piaget. O ficheiro continha dados pessoais dos candidatos, registos de spam e campos sem utilidade analítica.
 
-## Ficheiros nesta pasta
-- **`Relatorio_candidaturas-pos-graduacoes_2025-2026.pdf`** — Relatório da tarefa, com a organização do ficheiro e a leitura agregada do dashboard (sem dados pessoais).
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📄 Abrir o PDF → «Relatorio_candidaturas-pos-graduacoes_2025-2026.pdf»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/01_dados-institucionais-e-dashboards/C01_candidaturas-pos-graduacoes/Relatorio_candidaturas-pos-graduacoes_2025-2026.pdf)**  
+  Relatório da tarefa, com a organização do ficheiro e a leitura agregada do dashboard (sem dados pessoais).
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Microsoft Excel (limpeza de spam, filtros e tabela dinâmica) e Microsoft Power BI (dashboard e KPIs).

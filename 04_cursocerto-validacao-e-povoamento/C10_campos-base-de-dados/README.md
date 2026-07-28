@@ -8,8 +8,12 @@ Verificar a tabela de campos da base de dados do site e propor acrescentos útei
 ## Contexto
 Pedido da NetWiz, com acesso ao Pack Enterprise do cursocerto.pt (área institucional e importação por CSV) ativado na conta do estagiário.
 
-## Ficheiros nesta pasta
-- **`Campos_base-dados_cursocerto_com-acrescentos.xlsx`** — Ficheiro de campos, com os sete acrescentos propostos e a fonte de cada um numa folha própria.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «Campos_base-dados_cursocerto_com-acrescentos.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/04_cursocerto-validacao-e-povoamento/C10_campos-base-de-dados/Campos_base-dados_cursocerto_com-acrescentos.xlsx)**  
+  Ficheiro de campos, com os sete acrescentos propostos e a fonte de cada um numa folha própria.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Análise e verificação em sítios de instituições de ensino superior; Microsoft Excel.

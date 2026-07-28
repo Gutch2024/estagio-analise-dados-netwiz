@@ -8,8 +8,12 @@ Identificar o segmento-alvo dos produtos próprios da NetWiz (Course Match e Tal
 ## Contexto
 Terceira tarefa do conjunto. O NeuroDigital funciona como porta de entrada e não define, por si, um mercado.
 
-## Ficheiros nesta pasta
-- **`NetWiz_P3_Analise-Mercado-Produtos.xlsx`** — Análise por produto (Course Match e TalentHub), com o segmento-alvo, as entidades correspondentes e a dimensão de mercado, com as estimativas assinaladas como tal.
+## 📎 Evidências — clica para abrir ou descarregar
+
+- **[📊 Descarregar o Excel → «NetWiz_P3_Analise-Mercado-Produtos.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/06_carteira-de-prospecao-comercial/C19_mercado-produtos-proprios-p3/NetWiz_P3_Analise-Mercado-Produtos.xlsx)**  
+  Análise por produto (Course Match e TalentHub), com o segmento-alvo, as entidades correspondentes e a dimensão de mercado, com as estimativas assinaladas como tal.
+
+> _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
 Microsoft Excel; INE e DGEEC como fontes oficiais; Claude com conectores Tavily e Exa (pesquisa por blocos).
