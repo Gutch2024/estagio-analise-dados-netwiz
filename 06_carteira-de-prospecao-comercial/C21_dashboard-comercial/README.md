@@ -1,0 +1,31 @@
+# C.21 — Dashboard comercial calculado sobre a própria tabela
+
+> **Anexo do relatório:** C.21 · **Secção:** 4.6.5 · **Entidade:** NetWiz Systems / Instituto Piaget
+
+## Objetivo
+Reunir as 166 empresas das três tarefas anteriores numa carteira única e construir um dashboard comercial legível para a equipa comercial e a direção.
+
+## Contexto
+Última tarefa do estágio. A informação estava repartida por três ficheiros; faltava reuni-la num único sítio, sem recalcular as classificações já definidas.
+
+## Ficheiros nesta pasta
+- **`NetWiz_Dashboard-Comercial.xlsx`** — Dashboard em Excel com quatro folhas (Base de leads, Cálculos, Legenda e metodologia, Painel), com seis cartões de indicadores e seis gráficos calculados por COUNTIFS/AVERAGEIFS.
+- **`Relatorio_Dashboard-Comercial_graficos.pdf`** — Memória descritiva do ficheiro: origem dos dados, cálculos, leitura de cada gráfico e limitações.
+
+## Ferramentas utilizadas
+Microsoft Excel (COUNTIFS e AVERAGEIFS, com filtro de país); Claude (discussão de indicadores e revisão da organização).
+
+## Competências demonstradas
+Business Intelligence; construção de indicadores rastreáveis; consolidação de informação dispersa; apoio à decisão.
+
+**Unidades curriculares relacionadas:** Business Intelligence; Análise de dados.
+
+## Resultado
+166 leads (80 PT + 86 ES) em oito setores; 113 (68%) confirmados em fonte; maturidade média 45,8; 44 leads (27%) com encaixe no Course Match. Todos os números são rastreáveis até às linhas de origem.
+
+## Notas
+- A Base de leads contém endereços de e-mail e telefones **de entidades**, recolhidos das respetivas páginas públicas.
+- Não foram incluídos valores monetários (os preços da NetWiz não são públicos).
+
+---
+[← Voltar ao índice do repositório](../../README.md)
