@@ -1,0 +1,25 @@
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Microsoft Office - ficheiros temporários / de bloqueio
+~$*
+*.tmp
+*.laccdb
+
+# Power BI - cache
+*.pbix.tmp
+
+# Editores / IDE
+.vscode/
+.idea/
+
+# Ficheiros compactados de origem (os conteúdos já estão extraídos nas pastas)
+*.zip
+
+# Diretórios de trabalho locais
+/_scratch/
+/tmp/

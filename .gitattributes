@@ -1,0 +1,19 @@
+# Normalizar texto, proteger binários de conversões de fim de linha
+* text=auto
+
+# Documentos e dados binários (nunca converter)
+*.xlsx   binary
+*.xls    binary
+*.xlsm   binary
+*.pdf    binary
+*.pptx   binary
+*.ppt    binary
+*.pbix   binary
+*.zip    binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+
+# CSV e Markdown como texto
+*.csv    text
+*.md     text
