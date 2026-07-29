@@ -28,7 +28,7 @@ Consistência metodológica; transferência de um método validado para um conte
 **Unidades curriculares relacionadas:** Análise de dados.
 
 ## Resultado
-20 agências independentes com maturidade média de 47,5 (face a 70,3 das grandes redes); sem encaixe no Course Match e apenas seis com dimensão para o TalentHub.
+20 agências independentes com maturidade média de 47,5; sem encaixe no Course Match e apenas seis com dimensão para o TalentHub.
 
 ---
 [← Voltar ao índice do repositório](../../README.md)
