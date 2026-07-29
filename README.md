@@ -172,14 +172,14 @@ Este repositório segue o mesmo critério do relatório de estágio:
 - **Redações aplicadas** nesta versão pública:
   - `C.2` — removidas as páginas 7, 8 e 10 do relatório dos contactos (nomes de colaboradoras).
   - `C.17` — anonimizados os nomes de dois colaboradores na folha de metodologia.
-- **`C.16` (sequência de e-mails)** não é incluído por se tratar de **material comercial da NetWiz**; o relatório condiciona a sua anexação ao acordo do orientador.
+- **`C.16` (sequência de e-mails)** é **material comercial da NetWiz**, incluído por decisão do autor; **não contém e-mails de destinatários nem dados pessoais** (usa placeholders).
 - As bases de contactos institucionais e de leads B2B usam **endereços gerais/institucionais e dados de empresas**, recolhidos de fontes públicas, com base legal de interesse legítimo para prospeção B2B.
 
 ---
 
 ## Ficheiros incluídos
 
-Todos os entregáveis anexáveis estão incluídos, incluindo a base de **276 cursos** (C.12) e a **lista de 28 instituições** pedida pelo orientador (C.14). Ficam de fora apenas os ficheiros com **dados pessoais** (não anexáveis) e a **sequência de e-mails** do C.16 (material comercial da NetWiz), conforme o relatório.
+Todos os entregáveis anexáveis estão incluídos, incluindo a base de **276 cursos** (C.12) e a **lista de 28 instituições** pedida pelo orientador (C.14). Ficam de fora apenas os ficheiros com **dados pessoais** (não anexáveis), conforme o relatório. A sequência de e-mails (C.16) é material comercial da NetWiz, incluída por decisão do autor e sem dados pessoais.
 
 ---
 
