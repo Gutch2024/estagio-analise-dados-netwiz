@@ -10,7 +10,10 @@ Seguimento direto da validação do modelo. Em Portugal não existe um único co
 
 ## 📎 Evidências — clica para abrir ou descarregar
 
-- _(Sem ficheiro nesta versão — ver a nota abaixo.)_
+- **[📊 Descarregar o CSV → «276-cursos_por-instituicao_Portugal_importacao.csv»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/04_cursocerto-validacao-e-povoamento/C12_276-cursos-por-instituicao/276-cursos_por-instituicao_Portugal_importacao.csv)**  
+  Base de 276 cursos (3 por instituição/universidade-mãe), de 50 cidades de Portugal, no formato de importação do cursocerto.pt (51 colunas), aceite pelo sistema sem erros.
+
+> _Nota: os ficheiros Excel/CSV/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente._
 
 ## Ferramentas utilizadas
 Sistema de importação do site; recolha apoiada no Claude com os conectores Tavily e Exa.
@@ -22,9 +25,6 @@ Modelação e estruturação de dados; distinção entre conformidade de conteú
 
 ## Resultado
 276 cursos de 50 cidades de Portugal, aceites pelo sistema de importação sem erros.
-
-## Notas
-- **Ficheiro em falta** — a base de 276 cursos no formato de importação ainda não foi fornecida. Inserir aqui quando disponível.
 
 ---
 [← Voltar ao índice do repositório](../../README.md)

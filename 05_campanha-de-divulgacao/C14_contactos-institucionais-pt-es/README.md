@@ -15,6 +15,9 @@ Pedido da NetWiz, na fase de recolha prévia à divulgação.
 - **[📊 Descarregar o Excel → «Contactos_universidades_Espanha.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/05_campanha-de-divulgacao/C14_contactos-institucionais-pt-es/Contactos_universidades_Espanha.xlsx)**  
   94 universidades de Espanha (50 públicas, 44 privadas), com website, email geral e cidade/campus.
 
+- **[📊 Descarregar o Excel → «Lista_28-instituicoes_pedidas-orientador.xlsx»](https://github.com/Gutch2024/estagio-analise-dados-netwiz/raw/main/05_campanha-de-divulgacao/C14_contactos-institucionais-pt-es/Lista_28-instituicoes_pedidas-orientador.xlsx)**  
+  Lista específica de 28 instituições pedida pelo orientador, com email geral institucional e website.
+
 > _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas

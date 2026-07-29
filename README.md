@@ -177,9 +177,9 @@ Este repositório segue o mesmo critério do relatório de estágio:
 
 ---
 
-## Ficheiros pendentes / a confirmar
+## Ficheiros incluídos
 
-- `C.12` — base de **276 cursos** no formato de importação (secção 4.4.4). Existe um ficheiro candidato (`3_cursos_instituicoes_final_producao.csv`, com 276 cursos) que corresponde à descrição, mas aguarda **confirmação do autor** antes de ser incluído.
+Todos os entregáveis anexáveis estão incluídos, incluindo a base de **276 cursos** (C.12) e a **lista de 28 instituições** pedida pelo orientador (C.14). Ficam de fora apenas os ficheiros com **dados pessoais** (não anexáveis) e a **sequência de e-mails** do C.16 (material comercial da NetWiz), conforme o relatório.
 
 ---
 
