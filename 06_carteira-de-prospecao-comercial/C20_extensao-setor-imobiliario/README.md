@@ -1,6 +1,6 @@
 # C.20 — Transferibilidade do método a 20 agências imobiliárias
 
-> **Anexo do relatório:** C.20 · **Secção:** 4.6.4 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.20 · **Secção:** 4.6.4 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Aplicar o método das tarefas P1–P3 a agências de mediação imobiliária independentes, verificando se os critérios se mantêm válidos num setor não previsto.
