@@ -16,7 +16,7 @@ Pedido da NetWiz, com acesso ao Pack Enterprise do cursocerto.pt (área instituc
 > _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
-Análise e verificação em sítios de instituições de ensino superior; Microsoft Excel.
+Análise e verificação em websites de instituições de ensino superior; Microsoft Excel.
 
 ## Competências demonstradas
 Modelação de dados; organização da informação; compreensão da lógica global de um sistema antes de propor alterações.
