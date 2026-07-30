@@ -1,6 +1,6 @@
 # C.4 — Classificação de oito setores por potencial comercial
 
-> **Anexo do relatório:** C.4 · **Secção:** 4.2.2 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.4 · **Secção:** 4.2.2 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Agrupar as 50 entidades qualificadas por setor de atividade e classificar o potencial comercial de cada setor, identificando os serviços NetWiz mais adequados.
