@@ -18,7 +18,7 @@ Tarefa interna A3 da NetWiz. Não existia base de potenciais clientes; a informa
 > _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
-Pesquisa aprofundada (deep search) com ferramentas de IA e organização em Excel, com validação manual de cada dado em fontes oficiais.
+Pesquisa aprofundada (deep search) com ferramentas de IA e organização em Excel, com validação manual caso fosse necessário em fontes oficiais.
 
 ## Competências demonstradas
 Recolha e análise de informação de mercado; validação crítica da informação; qualidade de dados.
