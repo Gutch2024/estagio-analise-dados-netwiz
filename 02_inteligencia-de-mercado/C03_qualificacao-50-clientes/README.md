@@ -1,6 +1,6 @@
 # C.3 — Qualificação de 50 potenciais clientes validados em fonte
 
-> **Anexo do relatório:** C.3 · **Secção:** 4.2.1 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.3 · **Secção:** 4.2.1 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Construir de raiz uma base de potenciais clientes para a NetWiz, dentro dos serviços da empresa, qualificando e priorizando cada entidade.
