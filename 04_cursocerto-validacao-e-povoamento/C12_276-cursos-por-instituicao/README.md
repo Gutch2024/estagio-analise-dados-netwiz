@@ -1,6 +1,6 @@
 # C.12 — Carregamento de 276 cursos aceite pelo sistema sem erros
 
-> **Anexo do relatório:** C.12 · **Secção:** 4.4.4 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.12 · **Secção:** 4.4.4 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Povoar a base de cursos do site com 3 cursos por instituição/universidade-mãe em Portugal, no formato de importação validado na C.11.
