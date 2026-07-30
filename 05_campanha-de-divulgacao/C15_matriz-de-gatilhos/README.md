@@ -1,6 +1,6 @@
 # C.15 — Matriz de gatilhos para 90 instituições e mudança de método
 
-> **Anexo do relatório:** C.15 · **Secção:** 4.5.2 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.15 · **Secção:** 4.5.2 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Preparar os elementos de personalização das mensagens de divulgação, com um gatilho por instituição baseado no seu perfil e oferta formativa.
@@ -16,12 +16,12 @@ A orientação inicial era usar notícias/eventos recentes como gancho; foi prop
 > _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
-Microsoft Excel.
+Microsoft Excel, Claude Pro
 
 ## Competências demonstradas
 Prospeção documentada; comunicação B2B; personalização à escala; iniciativa metodológica (proposta aceite pelo orientador).
 
-**Unidades curriculares relacionadas:** Fundamentos de Gestão; Análise Exploratória de Dados; Comunicação.
+**Unidades curriculares relacionadas:Análise Exploratória de Dados.
 
 ## Resultado
 Matriz de gatilhos para 90 instituições, base para a posterior redação dos e-mails de divulgação.
