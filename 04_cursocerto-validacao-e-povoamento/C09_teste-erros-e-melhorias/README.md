@@ -1,6 +1,6 @@
 # C.9 — Teste do cursocerto.pt e sete propostas de correção
 
-> **Anexo do relatório:** C.9 · **Secção:** 4.4.1 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.9 · **Secção:** 4.4.1 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Testar a navegação, as ligações e as funcionalidades do site cursocerto.pt na perspetiva do utilizador e propor correções e melhorias.
