@@ -1,6 +1,6 @@
 # C.14 — Contactos de 92 instituições portuguesas e 94 espanholas
 
-> **Anexo do relatório:** C.14 · **Secção:** 4.5.1 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.14 · **Secção:** 4.5.1 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Recolher e organizar o sítio e o endereço eletrónico geral de cada instituição/universidade de Portugal e Espanha, para suportar a futura divulgação do cursocerto.pt.
