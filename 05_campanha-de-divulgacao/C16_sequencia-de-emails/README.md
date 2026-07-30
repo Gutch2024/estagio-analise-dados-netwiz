@@ -21,7 +21,7 @@ Microsoft Excel; estrutura definida no documento de orientação da empresa; men
 ## Competências demonstradas
 Comunicação profissional B2B; conformidade com o RGPD no contacto não solicitado.
 
-**Unidades curriculares relacionadas:** Comunicação.
+**Unidades curriculares relacionadas: Análise exploratória de Dados.
 
 ## Resultado
 Sequência de três contactos para cada uma das 90 instituições, pronta a executar.
