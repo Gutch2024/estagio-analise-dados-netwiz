@@ -25,7 +25,7 @@ Microsoft Excel; fontes públicas das tarefas anteriores mais o IMPIC; Claude e 
 ## Competências demonstradas
 Consistência metodológica; transferência de um método validado para um contexto novo sem perder comparabilidade.
 
-**Unidades curriculares relacionadas:** Análise de dados.
+**Unidades curriculares relacionadas:** Análise Exploratória de Dados
 
 ## Resultado
 20 agências independentes com maturidade média de 47,5; sem encaixe no Course Match e apenas seis com dimensão para o TalentHub.
