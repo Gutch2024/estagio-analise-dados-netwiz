@@ -1,6 +1,6 @@
 # C.11 — Validação das 53 colunas do modelo de importação
 
-> **Anexo do relatório:** C.11 · **Secção:** 4.4.3 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.11 · **Secção:** 4.4.3 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Validar o modelo de importação de cursos do cursocerto.pt de forma incremental (3 cursos → 16 cursos) e produzir uma matriz que explique as 53 colunas do modelo.
