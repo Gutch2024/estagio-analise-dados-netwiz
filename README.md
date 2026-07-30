@@ -2,7 +2,7 @@
 
 **Estágio curricular na Netwiz Systems** · CTeSP em Análise de Dados em Gestão de Informação · Escola Superior de Tecnologia e Gestão Jean Piaget (ESTGJP)
 
-Este repositório reúne, de forma organizada e rastreável, os **entregáveis produzidos durante o estágio curricular** realizado na NetWiz Systems (22 de abril a 5 de agosto de 2026). Serve de **Anexo C** ao relatório de estágio: cada pasta corresponde a uma tarefa e é identificada pelo mesmo código (`C.1` a `C.21`) e secção usados no relatório, para que qualquer evidência possa ser localizada a partir do texto.
+Este repositório reúne, de forma organizada e rastreável, os **entregáveis produzidos durante o estágio curricular** realizado na Netwiz Systems (22 de abril a 5 de agosto de 2026). Serve de **Anexo C** ao relatório de estágio: cada pasta corresponde a uma tarefa e é identificada pelo mesmo código (`C.1` a `C.21`) e secção usados no relatório, para que qualquer evidência possa ser localizada a partir do texto.
 
 - **Autor:** Pedro Ferreira
 - **Entidade de acolhimento:** Netwiz Systems, Sociedade Unipessoal, Lda. — soluções digitais integradas
