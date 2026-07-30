@@ -1,6 +1,6 @@
 # C.21 — Dashboard comercial calculado sobre a própria tabela
 
-> **Anexo do relatório:** C.21 · **Secção:** 4.6.5 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.21 · **Secção:** 4.6.5 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Reunir as 166 empresas das três tarefas anteriores numa carteira única e construir um dashboard comercial legível para a equipa comercial e a direção.
