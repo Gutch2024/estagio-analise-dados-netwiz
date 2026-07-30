@@ -1,6 +1,6 @@
 # C.13 — Avaliação de 809 entidades por matriz de sete critérios
 
-> **Anexo do relatório:** C.13 · **Secção:** 4.4.5 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.13 · **Secção:** 4.4.5 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Levantar entidades de ensino e formação não superior e avaliar, por matriz de critérios, o valor acrescentado que poderiam trazer ao comparador cursocerto.pt.
