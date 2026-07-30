@@ -1,6 +1,6 @@
 # C.19 — Dimensionamento do mercado dos produtos próprios (P3)
 
-> **Anexo do relatório:** C.19 · **Secção:** 4.6.3 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.19 · **Secção:** 4.6.3 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Identificar o segmento-alvo dos produtos próprios da NetWiz (Course Match e TalentHub) e estimar a dimensão de cada mercado, distinguindo valores observados de estimados.
