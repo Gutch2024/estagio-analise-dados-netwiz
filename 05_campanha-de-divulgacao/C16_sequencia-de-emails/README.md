@@ -1,6 +1,6 @@
 # C.16 — Construção de e-mails para divulgação do cursocerto.pt
 
-> **Anexo do relatório:** C.16 · **Secção:** 4.5.3 · **Entidade:** NetWiz Systems
+> **Anexo do relatório:** C.16 · **Secção:** 4.5.3 · **Entidade:** Netwiz Systems
 
 ## Objetivo
 Preparar uma sequência de contactos de divulgação em três toques (dia 0, 4.º e 8.º dia útil), com assunto recomendado e alternativo e menção ao direito de oposição (RGPD).
