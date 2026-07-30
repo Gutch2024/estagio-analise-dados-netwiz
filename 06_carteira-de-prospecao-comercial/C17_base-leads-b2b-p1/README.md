@@ -1,6 +1,6 @@
 # C.17 — Base de 166 leads com origem e estado de cada dado (P1)
 
-> **Anexo do relatório:** C.17 · **Secção:** 4.6.1 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.17 · **Secção:** 4.6.1 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Compilar uma base de empresas-alvo (leads) por setor prioritário em Portugal e Espanha, registando a origem e o estado de cada dado.
@@ -16,7 +16,7 @@ Primeira de três tarefas encadeadas (P1–P3). Partiu dos setores da C.4 e alar
 > _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
-Microsoft Excel; diretórios empresariais, sítios das empresas, Google Maps e páginas de empresa no LinkedIn. Registo da origem e do estado de cada dado (observado vs inferido).
+Microsoft Excel; diretórios empresariais, sítios das empresas, Google Maps e páginas de empresa no LinkedIn. Registo da origem e do estado de cada dado (observado vs inferido). Claude Pro
 
 ## Competências demonstradas
 Rastreabilidade dos dados; recolha de fontes heterogéneas; qualidade e documentação de dados.
