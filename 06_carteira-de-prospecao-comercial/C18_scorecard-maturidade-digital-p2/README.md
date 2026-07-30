@@ -1,6 +1,6 @@
 # C.18 — Pontuação de maturidade digital em seis critérios (P2)
 
-> **Anexo do relatório:** C.18 · **Secção:** 4.6.2 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.18 · **Secção:** 4.6.2 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Construir um scorecard que pontue cada empresa em seis critérios ponderados (0–100), atribuindo nível de maturidade, bloqueio principal e serviço NetWiz correspondente.
@@ -16,7 +16,7 @@ Segunda tarefa do conjunto, aplicada sobre a base da C.17. O desenho do sistema 
 > _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
-Microsoft Excel, com pesos e limiares parametrizados e a metodologia documentada no próprio ficheiro.
+Microsoft Excel, com pesos e limiares parametrizados e a metodologia documentada no próprio ficheiro e o Claude Pro
 
 ## Competências demonstradas
 Desenho de modelos de scoring; parametrização e documentação de critérios discutíveis; apoio à decisão.
