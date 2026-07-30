@@ -1,6 +1,6 @@
 # C.2 — Normalização de 11 755 contactos e dois dashboards anuais
 
-> **Anexo do relatório:** C.2 · **Secção:** 4.1.2 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.2 · **Secção:** 4.1.2 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Separar por ano os contactos de potenciais estudantes recolhidos ao longo de dois anos letivos, normalizar as colunas de campus, ciclo de estudo, curso e responsável pelo atendimento, e construir dois dashboards anuais.
@@ -16,12 +16,12 @@ Pedido do GCI do Instituto Piaget. Os registos de dois anos estavam juntos na me
 > _Nota: os ficheiros Excel/PowerPoint/Power BI **não** pré-visualizam no GitHub — clica no botão acima e o ficheiro abre ou descarrega diretamente. Os PDF abrem no navegador._
 
 ## Ferramentas utilizadas
-Microsoft Excel (separação por ano, filtros e preenchimento, com marcação a amarelo dos campos inferidos) e Microsoft Power BI (dois dashboards).
+Microsoft Excel (separação por ano, filtros e preenchimento, com marcação a amarelo dos campos inferidos) e Microsoft Power BI (dois dashboards) Word ( relatório).
 
 ## Competências demonstradas
 Normalização de dados; rastreabilidade das decisões (distinção entre dado observado e inferido); aplicação do RGPD.
 
-**Unidades curriculares relacionadas:** Análise Exploratória de Dados.
+**Unidades curriculares relacionadas:** Análise Exploratória de Dados, Data WareHouse Business Intelligence.
 
 ## Resultado
 Ficheiro organizado com 9 772 registos em 2025, 1 959 em 2025-2026 e 24 em 2026. Almada é o campus dominante; Fisioterapia o curso mais procurado; Licenciatura o ciclo líder.
