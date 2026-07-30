@@ -3,7 +3,7 @@
 > **Anexo do relatório:** C.19 · **Secção:** 4.6.3 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
-Identificar o segmento-alvo dos produtos próprios da NetWiz (Course Match e TalentHub) e estimar a dimensão de cada mercado, distinguindo valores observados de estimados.
+Identificar o segmento-alvo dos produtos próprios da Netwiz (Course Match e TalentHub) e estimar a dimensão de cada mercado, distinguindo valores observados de estimados.
 
 ## Contexto
 Terceira tarefa do conjunto. O NeuroDigital funciona como porta de entrada e não define, por si, um mercado.
