@@ -23,7 +23,7 @@ Microsoft Excel (COUNTIFS e AVERAGEIFS, com filtro de país); Claude (discussão
 ## Competências demonstradas
 Business Intelligence; construção de indicadores rastreáveis; consolidação de informação dispersa; apoio à decisão.
 
-**Unidades curriculares relacionadas:** Business Intelligence; Análise de dados.
+**Unidades curriculares relacionadas:** Data WareHouse e Business Intelligence; Análise Exploratória de Dados.
 
 ## Resultado
 166 leads (80 PT + 86 ES) em oito setores; 113 (68%) confirmados em fonte; maturidade média 45,8; 44 leads (27%) com encaixe no Course Match. Todos os números são rastreáveis até às linhas de origem.
