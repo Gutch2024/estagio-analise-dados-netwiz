@@ -21,7 +21,7 @@ Microsoft Excel; INE e DGEEC como fontes oficiais; Claude com conectores Tavily 
 ## Competências demonstradas
 Segmentação de mercado; distinção entre observado e estimado; estruturação da pesquisa por blocos.
 
-**Unidades curriculares relacionadas:** Análise de dados; Análise Exploratória de Dados.
+**Unidades curriculares relacionadas:** Análise Exploratória de Dados.
 
 ## Resultado
 44 instituições com encaixe no Course Match e 33 empresas com recrutamento recorrente para o TalentHub, cada uma identificada e com estimativa de dimensão de mercado.
