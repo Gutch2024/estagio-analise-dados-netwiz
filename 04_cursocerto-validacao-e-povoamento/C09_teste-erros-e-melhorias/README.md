@@ -23,7 +23,7 @@ Navegação no próprio site cursocerto.pt, com apoio do Perplexity e confirmaç
 ## Competências demonstradas
 Garantia de qualidade (QA) na perspetiva do utilizador; análise crítica; documentação de erros.
 
-**Unidades curriculares relacionadas:** Sistemas de Informação; Interfaces Web para a Gestão de Dados.
+**Unidades curriculares relacionadas:** Análise Exploratória de Dados; Interfaces Web para a Gestão de Dados.
 
 ## Resultado
 Sete erros e propostas de melhoria identificados (cinco no primeiro relatório, dois no segundo), cada um com proposta concreta de correção.
