@@ -21,7 +21,7 @@ Microsoft Excel, com pesos e limiares parametrizados e a metodologia documentada
 ## Competências demonstradas
 Desenho de modelos de scoring; parametrização e documentação de critérios discutíveis; apoio à decisão.
 
-**Unidades curriculares relacionadas:** Business Intelligence; Análise Exploratória de Dados.
+**Unidades curriculares relacionadas:** Análise Exploratória de Dados.
 
 ## Resultado
 166 empresas pontuadas entre 23 e 60 (média 45,8): 96 de nível médio e 70 de nível baixo, cada uma com serviço recomendado.
