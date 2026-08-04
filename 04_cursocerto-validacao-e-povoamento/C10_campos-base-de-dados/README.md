@@ -1,6 +1,6 @@
 # C.10 — Revisão dos campos da base de dados da plataforma
 
-> **Anexo do relatório:** C.10 · **Secção:** 4.4.2 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.10 · **Secção:** 4.4.2 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Verificar a tabela de campos da base de dados do site e propor acrescentos úteis, por comparação com o modelo de exemplo da área institucional da plataforma.
@@ -21,7 +21,7 @@ Análise e verificação em websites de instituições de ensino superior; Micro
 ## Competências demonstradas
 Modelação de dados; organização da informação; compreensão da lógica global de um sistema antes de propor alterações.
 
-**Unidades curriculares relacionadas:** Interfaces Web para a Gestão de Dados; Modelação de Dados.
+**Unidades curriculares relacionadas:** Interfaces Web para a Gestão de Dados; Análise Exploratória de Dados.
 
 ## Resultado
 Tabela de 45 colunas revista, com sete acrescentos propostos (perfil do aluno, parceiros e protocolos, descrição da qualificação, destinatários, metodologia de ensino, orientação vocacional e residências universitárias), cada um com a respetiva fonte.
