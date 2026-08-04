@@ -6,7 +6,7 @@
 Recolher e organizar o sítio e o endereço eletrónico geral de cada instituição/universidade de Portugal e Espanha, para suportar a futura divulgação do cursocerto.pt.
 
 ## Contexto
-Pedido da NetWiz, na fase de recolha prévia à divulgação.
+Pedido da Netwiz, na fase de recolha prévia à divulgação.
 
 ## 📎 Evidências — clica para abrir ou descarregar
 
