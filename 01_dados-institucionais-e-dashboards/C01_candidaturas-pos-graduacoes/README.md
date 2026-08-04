@@ -1,6 +1,6 @@
 # C.1 — Organização de 719 candidaturas e dashboard por campus
 
-> **Anexo do relatório:** C.1 · **Secção:** 4.1.1 · **Entidade:** NetWiz Systems / Instituto Piaget
+> **Anexo do relatório:** C.1 · **Secção:** 4.1.1 · **Entidade:** Netwiz Systems / Instituto Piaget
 
 ## Objetivo
 Organizar o ficheiro Excel de candidaturas às pós-graduações de 2025/2026 do Instituto Piaget para permitir uma leitura agregada por campus e por curso, no respeito pelo RGPD, e construir um dashboard de acompanhamento.
