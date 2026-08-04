@@ -21,7 +21,7 @@ Sistema de importação do site; recolha apoiada no Claude com os conectores Tav
 ## Competências demonstradas
 Modelação e estruturação de dados; distinção entre conformidade de conteúdo e validade técnica no sistema.
 
-**Unidades curriculares relacionadas:** Bases de Dados; Gestão de Informação.
+**Unidades curriculares relacionadas:** Interfaces Web para a Gestão de Dados; Análise Exploratória de Dados.
 
 ## Resultado
 276 cursos de 50 cidades de Portugal, aceites pelo sistema de importação sem erros.
