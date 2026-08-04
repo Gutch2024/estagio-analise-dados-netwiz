@@ -21,7 +21,7 @@ Microsoft Excel; diretórios empresariais, sítios das empresas, Google Maps e p
 ## Competências demonstradas
 Rastreabilidade dos dados; recolha de fontes heterogéneas; qualidade e documentação de dados.
 
-**Unidades curriculares relacionadas:** Análise de dados; Gestão de Informação.
+**Unidades curriculares relacionadas:** Análise Exploratória de Dados.
 
 ## Resultado
 166 empresas: 83 de prioridade alta, 78 média e 5 baixa.
