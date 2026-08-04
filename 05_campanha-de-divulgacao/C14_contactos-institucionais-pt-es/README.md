@@ -26,7 +26,7 @@ Claude com conectores de pesquisa (Tavily e Exa); validação de cada contacto d
 ## Competências demonstradas
 Recolha, organização e qualidade de dados; validação sistemática e rastreabilidade das fontes.
 
-**Unidades curriculares relacionadas:** Gestão de Informação.
+**Unidades curriculares relacionadas:** Análise Exploratória de Dados.
 
 ## Resultado
 Duas bases de contactos institucionais (92 registos PT + 94 registos ES), com apenas endereços publicamente disponibilizados.
